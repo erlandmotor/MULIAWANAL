@@ -18,8 +18,8 @@ export default function ContributeSection({}: Props) {
         viewport={{ once: true }}
       >
         <Image
-          src='/KONTAK.png'
-          alt='Rian Septrianto Maulana'
+          src='/hubungi.png'
+          alt='MULIAWAN'
           as={NextImage}
           width={500}
           height={500}
