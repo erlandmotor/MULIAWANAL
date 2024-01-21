@@ -31,12 +31,12 @@ export default function HomeSection({}: Props) {
           viewport={{ once: true }}
         >
           <h1 className='text-hero-title text-white '>
-          Rian Septrianto Maulana, S.M. Calon DPR-RI DAPIL X GRESIK - LAMONGAN
+          MULIAWAN AL - AMIEN, S.Ds., B.A Calon DPRD DAPIL 1 KOTA SERANG
           </h1>
           <h3 className='text-hero-subtitle max-w-lg pt-4'>
-          6ASPPPOL CAK
+          Serang Maju Literasi Digital, Ekonomi Kreatif, Inovasi Bersama! Untuk Kota yang Dinamis dan Berdaya Saing, Bersama Kita Wujudkan Visi Masyarakat Terampil di Era Digital dan Pertumbuhan Ekonomi Kreatif yang Berkah. #SerangBerinovasi #KreatifBersamaUntukKotaSerang
           </h3>
-          <ButtonLinkComponent caption='6ASPPPOL' to='About' offset={0} />
+          <ButtonLinkComponent caption='Serang Maju Literasi Digital' to='About' offset={0} />
         </motion.div>
         <div className='relative '>
           <motion.div
@@ -51,7 +51,7 @@ export default function HomeSection({}: Props) {
               06
             </div>
             <p className='text-primary-text text-base font-medium'>
-            Rian Septrianto Maulana, S.M.
+            MULIAWAN AL - AMIEN, S.Ds., B.A
             </p>
             <Image
               src='/nail.png'
@@ -75,7 +75,7 @@ export default function HomeSection({}: Props) {
               className='h-10 w-10'
             />
             <p className='text-primary-text text-base font-medium'>
-            Partai Persatuan Pembangunan
+            Partai Persatuan Indonesia
             </p>
             <Image
               src='/nail.png'
@@ -95,15 +95,15 @@ export default function HomeSection({}: Props) {
               src='/nu-color.svg'
               width={50}
               height={50}
-              alt='Rian Septrianto Maulana, S.M.'
+              alt='MULIAWAN'
               className='h-14 w-14'
             />
-            <p className='text-base font-medium text-white'>6ASPPPOL CAK</p>
+            <p className='text-base font-medium text-white'>Serang Maju: Literasi Digital, Ekonomi Kreatif, Inovasi Bersama! Untuk Kota yang Dinamis dan Berdaya Saing, Bersama Kita Wujudkan Visi Masyarakat Terampil di Era Digital dan Pertumbuhan Ekonomi Kreatif yang Berkah. #SerangBerinovasi #KreatifBersamaUntukKotaSerang</p>
             <div className='h-3 w-3 rounded-full bg-primary'></div>
           </motion.div>
           <div className='relative overflow-y-hidden rounded-2xl bg-white/20 backdrop-blur-lg'>
             <Image
-              src='/cakrian.png'
+              src='/MULIAWAN.png'
               alt='Hero Image'
               width={450}
               height={550}
