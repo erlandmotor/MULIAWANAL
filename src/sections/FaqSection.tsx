@@ -22,19 +22,20 @@ export default function FaqSection({}: Props) {
       >
         <div className='flex flex-col items-center justify-center md:items-start'>
           <h1 className=' text-3xl font-bold text-white'>
-            FOLLOW MEDIA SOSIAL CAK RIAN
+            FOLLOW MEDIA SOSIAL MULIAWAN AL
           </h1>
-          <p className='text-lg text-white'>Ayo Follow CAK RIAN</p>
+          <p className='text-lg text-white'>Calon Anggota DPRD Kota Serang
+Dapil 1 No. 8 (Kel. Lopang, Unyur, Kaligandu, Terondol, Sukawana, & Sumur Pecung)</p>
         </div>
         <Button
           className='bg-black text-white'
           startContent={<Instagram size={20} />}
           size='lg'
-          href='https://www.instagram.com/p/C2MLJURpaok'
+          href='https://www.instagram.com/sobat_muliawan08'
           as={Link}
           target='_blank'
         >
-          CAK RIAN
+          Sobat Muliawan08
         </Button>
       </div>
     </section>
