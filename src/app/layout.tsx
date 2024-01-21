@@ -9,11 +9,11 @@ const outfit = Outfit({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://rianseptian.vercel.app/'),
-  title: 'Rian Septrianto Maulana, S.M. Calon DPR-RI DAPIL X GRESIK - LAMONGAN',
+  title: 'MULIAWAN AL - AMIEN, S.Ds., B.A Calon DPRD DAPIL 1 KOTA SERANG',
   description:
-    'Rian Septrianto Maulana adalah seorang aktifis yang mencuat dalam dunia kegiatan keagamaan dan kewanitaan, terlibat dengan berbagai organisasi.',
+    'Serang Maju: Literasi Digital, Ekonomi Kreatif, Inovasi Bersama! Untuk Kota yang Dinamis dan Berdaya Saing, Bersama Kita Wujudkan Visi Masyarakat Terampil di Era Digital dan Pertumbuhan Ekonomi Kreatif yang Berkah.',
   openGraph: {
-    images: '/cakrian.png',
+    images: '/MULIAWAN.png',
   },
 };
 
