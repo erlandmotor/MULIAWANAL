@@ -5,27 +5,27 @@ export default function AccordionComponents() {
   const question = [
     {
       id: 1,
-      question: 'Siapa Itu Rian Septrianto Maulana ?',
+      question: 'Siapa Itu MULIAWAN AL - AMIEN, S.Ds., B.A ?',
       answer:
-        'Rian Septrianto Maulana adalah seorang aktifis yang mencuat dalam dunia kegiatan keagamaan dan kewanitaan, terlibat dengan berbagai organisasi. Dedikasinya tidak hanya terbatas pada keikutsertaannya,tetapi juga pada peran kunci dalam memperkuat nilai-nilai keagamaan dan mengadvokasi hak-hak perempuan, menjadikannya sosok inspiratif di kancah perubahan sosial.',
+        'seorang pionir dalam menggagas dan mengimplementasikan inovasi digital untuk memajukan program-program masyarakat. Dengan keahlian saya dalam memahami perkembangan terkini di dunia digital, saya berkomitmen untuk membawa transformasi positif melalui penerapan teknologi yang relevan dan inklusif. Melalui kepemimpinan saya, saya bertujuan untuk menghubungkan masyarakat dengan peluang digital, membuka akses kepada mereka, dan memastikan bahwa setiap individu dapat merasakan manfaat positif dari era digital ini. Dari Rakyat Untuk Rakyat!!',
     },
     {
       id: 2,
-      question: 'Apa Itu Partai PPP ?',
+      question: 'Apa Itu Partai Perindo ?',
       answer:
-        'Partai Persatuan Pembangunan (PPP) adalah salah satu partai politik di Indonesia. PPP didirikan pada 5 Januari 1973 dan merupakan salah satu partai Islam tertua di Indonesia.',
+        'Partai Persatuan Indonesia (Perindo) adalah partai politik di Indonesia. Partai ini didirikan oleh Hary Tanoesoedibjo, pengusaha dan pemilik MNC Group.',
     },
     {
       id: 3,
-      question: 'Nomor Urut Berapa PPP dan Rian Septrianto Maulana ?',
+      question: 'Nomor Urut Berapa Perindo dan MULIAWAN AL ?',
       answer:
-        'Partai Persatuan Pembangunan (PPP) Berada di Nomor Urut 17,dan Rian Septrianto Maulana Berada di Nomor Urut 6',
+        'Partai Persatuan Indonesia (Perindo) Berada di Nomor Urut 16 dan MULIAWAN AL Berada di Nomor Urut 8',
     },
     {
       id: 4,
-      question: 'Ada di dapil mana Rian Septrianto Maulana berada ?',
+      question: 'Ada di dapil mana MULIAWAN AL berada ?',
       answer:
-        'Rian Septrianto Maulana adalah calon legislatif kabupaten gresik - lamongan dapil 10 yang meliputi kecamatan Gresik Dan Lamongan',
+        'Dapil 1 Kota Serang',
     },
   ];
 
