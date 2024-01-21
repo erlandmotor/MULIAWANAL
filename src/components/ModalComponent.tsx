@@ -56,7 +56,7 @@ export default function ModalComponent({ image, title, content }: props) {
                   onPress={onClose}
                   startContent={<Check />}
                 >
-                  Ok
+                  Sudah Baca
                 </Button>
               </ModalFooter>
             </>
