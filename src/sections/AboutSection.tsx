@@ -20,11 +20,10 @@ export default function AboutSection({}: Props) {
           viewport={{ once: true }}
         >
           <h1 className='text-hero-title text-primary-text'>
-            Pengalaman Organisasi Mas Rian Septrianto Maulana, S.M.
+            Pengalaman Organisasi MULIAWAN AL - AMIEN, S.Ds., B.A
           </h1>
           <p className='text-primary-text mt-5 text-medium'>
-            Pengalaman organisasi yang dimiliki oleh individu ini mencakup berbagai posisi kepemimpinan dalam berbagai organisasi. Dalam periode 2017-2020, individu tersebut menjabat sebagai Sekretaris Umum BPC HIPMI Kabupaten Gresik, yang merupakan Badan Pengurus Cabang Himpunan Pengusaha Muda Indonesia. Pada periode 2021-2024, individu tersebut menjadi Ketua Dewan Pembina HIPMI Kabupaten Gresik. Selain itu, individu ini juga menjabat sebagai Vice President Public Relation JCI East Java Junior Chamber International sejak 2018 hingga sekarang. Selama periode 2018-2020, individu ini memegang posisi Ketua Bidang Pengembangan UMKM & Perdagangan Ikatan Alumni Universitas Airlangga cabang Gresik Raya. Pada periode yang sama, individu ini juga menjabat sebagai Ketua Umum DPC APTRINDO Gresik, yang merupakan Asosiasi Pengusaha Truck Indonesia. Selanjutnya, individu ini menjadi Wakil Ketua Bidang Angkutan Kepelabuhanan DPD APTRINDO JATIM pada periode 2018-2020. Selama periode 2017-2022, individu ini juga menjabat sebagai Ketua Bidang Humas & Teknologi DPC APBMI Gresik, yang merupakan Asosiasi Perusahaan Bongkar Muat Indonesia. Pada tahun 2020-2025, individu ini menjabat sebagai Ketua Bidang Perintis OPP INSA, yang merupakan Indonesian National Shipowners Association. Individu ini juga menjadi anggota Komite Tetap Bidang Perhubungan Kadin Surabaya dalam periode 2019-2024. Selanjutnya, dalam periode 2021-2026, individu ini menjabat sebagai Wakil Ketua Bidang Pengembangan UMKM Kadin Gresik dan Ketua Umum GEKRAFS Jawa Timur, yang merupakan Gerakan Ekonomi Kreatif Nasional. Terakhir, individu ini menjabat dalam Bidang VI HIPMI Jawa Timur pada periode 2021-2024.
-          </p>
+            Saya adalah seorang pionir dalam menggagas dan mengimplementasikan inovasi digital untuk memajukan program-program masyarakat. Dengan keahlian saya dalam memahami perkembangan terkini di dunia digital, saya berkomitmen untuk membawa transformasi positif melalui penerapan teknologi yang relevan dan inklusif. Melalui kepemimpinan saya, saya bertujuan untuk menghubungkan masyarakat dengan peluang digital, membuka akses kepada mereka, dan memastikan bahwa setiap individu dapat merasakan manfaat positif dari era digital ini. Dari Rakyat Untuk Rakyat!!          </p>
           <ButtonLinkComponent
             caption='Daftar Relawan'
             to='Contact'
@@ -35,8 +34,8 @@ export default function AboutSection({}: Props) {
         <div className='relative'>
           <div className='flex items-center justify-center rounded-2xl bg-gradient-to-b from-bg_start to-bg_end'>
             <Image
-              src='/419591675_18408618760009645_7308368155574212459_n.jpg'
-              alt='Rian Septrianto Maulana'
+              src='/MULIAWAN.png'
+              alt='MULIAWAN'
               className='z-0 h-[520px] w-[450px] object-cover sm:h-[550px]'
               as={NextImage}
               width={450}
