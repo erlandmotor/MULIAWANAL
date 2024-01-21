@@ -28,23 +28,23 @@ const childVariants = {
 const program = [
   {
     id: 1,
-    title: 'Pemberdayaan Pendidikan Keagamaan',
+    title: 'Pelatihan ekonomi kreatif kepada masyarakat',
     content:
-      'Melalui program ini, Rian Septrianto Maulana, S.M. akan memperkuat institusi pendidikan keagamaan di daerah ini. Ini termasuk dukungan untuk sekolah-sekolah agama, pelatihan guru keagamaan, dan fasilitas yang memadai untuk mendukung pembelajaran keagamaan.',
+      'Pagi yang cerah menjadi saksi kegiatan pasar yang penuh semangat bagi para Usaha Mikro, Kecil, dan Menengah (UMKM) di Kota Serang. Acara ini bertujuan mendorong perkembangan ekonomi lokal dengan memberikan platform bagi UMKM untuk mempromosikan produk dan jasa mereka.',
     image: 'program-1',
   },
   {
     id: 2,
-    title: 'Pendidikan Berkualitas',
+    title: 'Pentingnya branding pada Bisnis dan Start Up',
     content:
-      'Rian Septrianto Maulana, S.M. berkomitmen untuk mendorong pemerintah agar menyediakan pendidikan berkualitas yang mengintegrasikan nilai-nilai keagamaan. Dengan mendukung kurikulum yang mencakup aspek spiritual dan moral, Azizah ingin membentuk generasi penerus yang cerdas dan berintegritas.',
+      'Tidak hanya terbatas pada rutinitas senam, acara ini seringkali diisi dengan sesi tanya jawab tentang gaya hidup sehat, pengetahuan nutrisi, dan tips kebugaran. Hal ini menciptakan atmosfer yang edukatif, di mana masyarakat dapat saling berbagi informasi dan pengalaman untuk mencapai gaya hidup yang lebih sehat.',
     image: 'program-2',
   },
   {
     id: 3,
-    title: 'Forum Diskusi Keagamaan',
+    title: 'Pengembangan dan pelestarian seni budaya tradisi di Kota Serang',
     content:
-      'Rian Septrianto Maulana, S.M. akan menyelenggarakan forum diskusi terbuka untuk membahas isu-isu keagamaan dan pendidikan. Ini memberikan ruang bagi dialog antar komunitas dan memberikan pemahaman yang lebih baik tentang peran keagamaan dalam menciptakan harmoni sosial.',
+      'Dalam upaya mendukung partisipasi aktif masyarakat, Kota Serang menggelar kegiatan sosialisasi dan mendengar keluhan warga. Acara ini bertujuan untuk membangun dialog yang lebih erat antara pemerintah dan masyarakat guna menciptakan lingkungan yang lebih responsif terhadap kebutuhan dan aspirasi warganya. Pada acara tersebut, berbagai program inisiatif pemerintah dibahas, termasuk upaya meningkatkan literasi digital dan mendukung pertumbuhan ekonomi kreatif. Selain itu, warga diajak untuk memberikan keluhan, masukan, dan ide-ide konstruktif guna memperbaiki layanan dan kualitas hidup di Kota Serang. Sosialisasi ini menjadi momentum penting untuk memperkuat kerjasama antara pemerintah dan masyarakat dalam mewujudkan perkembangan positif dan kesejahteraan bersama..',
     image: 'program-3',
   },
 ];
