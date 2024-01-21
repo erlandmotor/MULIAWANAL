@@ -6,17 +6,17 @@ type Props = {
 
 export default function VissionMissionCard({ activeTabs }: Props) {
   const data = {
-    visi: 'Menjadikan masyarakat yang berkeadilan, berkeadaban, dan berdaya saing, melalui penguatan nilai-nilai agama, partisipasi aktif dalam kegiatan sosial, serta pemberdayaan perempuan',
+    visi: 'Mewujudkan Serang sebagai pusat dan pengembangan kota yang dinamis, terus bertumbuh dan berdaya saing melalui pemanfaatan sumber daya manusia sebagai inovasi digital dan ekonomi kreatif yang berkembang pesat.',
     misi: [
       {
-        title: 'Penguatan Nilai Agama',
+        title: 'Menggalakkan literasi digital di kalangan masyarakat Serang melalui program pelatihan, workshop, dan kegiatan edukasi lainnya.',
         content:
-          'Memperjuangkan kebijakan yang mendukung dan memperkuat nilai-nilai moral dan spiritual dalam kehidupan masyarakat.',
+          'Mendorong inovasi digital dalam berbagai sektor ekonomi dengan memberikan dukungan dan fasilitas kepada para pelaku usaha lokal.',
       },
       {
-        title: 'Partisipasi Sosial',
+        title: 'Membangun ekosistem kolaboratif antara pemerintah, perusahaan, dan komunitas untuk merancang solusi inovatif yang mendukung transformasi digital kota.',
         content:
-          'Mendorong partisipasi aktif warga masyarakat dalam kegiatan sosial, seperti gotong royong, kegiatan amal, dan bakti sosial',
+          'Menyediakan infrastruktur teknologi yang handal dan terjangkau untuk memastikan aksesibilitas yang merata terhadap kemajuan digital bagi semua lapisan masyarakat.',
       },
       {
         title: 'Pemberdayaan Perempuan',
